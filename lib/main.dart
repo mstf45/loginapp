@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'feature/custom_sign_up/custom_sign_up.dart';
 
 void main() {
